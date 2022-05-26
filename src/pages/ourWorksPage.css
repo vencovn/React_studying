@@ -1,0 +1,21 @@
+.works_container {
+    display: flex;
+    justify-content: space-evenly;
+    width: 1000px;
+}
+
+p {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+h1  {
+    justify-content: center;
+}
+
+.works_warning {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}

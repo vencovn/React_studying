@@ -1,0 +1,28 @@
+ul{
+    list-style: none;
+    display: flex;
+    margin: 0;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+li{
+    display: inline;
+    text-decoration: none;
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px 0;
+
+}
